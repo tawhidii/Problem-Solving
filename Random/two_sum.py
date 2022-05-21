@@ -1,4 +1,5 @@
 class Solution:
+ 
     def twoSum(self, nums, target):
         seen = {}
         for idx in range(len(nums)):
